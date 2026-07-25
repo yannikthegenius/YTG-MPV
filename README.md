@@ -1,10 +1,10 @@
 # YTG-MPV
-My MPV Configs.
-
-> Hatte keinen Bock, über CLI zu pushen, daher sind alle Files in der einen Zip-File.
 
 > [!NOTE]
-Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https://github.com/Samillion/ModernZ).
+Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https://github.com/Samillion/ModernZ).
+
+
+> Hatte keinen Bock, über CLI zu pushen, daher sind alle Files in der einen Zip-File.
 
 ---
 
