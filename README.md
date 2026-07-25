@@ -3,9 +3,6 @@
 > [!NOTE]
 Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https://github.com/Samillion/ModernZ).
 
-
-> Hatte keinen Bock, über CLI zu pushen, daher sind alle Files in der einen Zip-File.
-
 ---
 
 ## ▶️ Notable Changes
@@ -22,3 +19,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 - CTRL+Z to Resume: Wenn man ausversehen an eine andere Stelle gesprungen ist, kann man das revidieren und mit CTRL+Z einfach wieder zurück.
 - Playlist by default: Wenn man eine File in einem Ordner öffnet, in dem auch andere Files sind, wird automatisch eine Playlist erstellt. So kann man einfach per SHIFT+LEFT und SHIFT+RIGHT zwischen den verschiedenen Files wechseln, ohne im File Manager gucken zu müssen.
 - Sehr viele andere useful Scripts wie Sharpening Shader, File Browser, Audio Visualizer oder Pause Indicator. Danke an die Arbeit von all den Script Developern; habe nicht alle selber gemacht.
+
+---
+
+> Hatte keinen Bock, über CLI zu pushen, daher sind alle Files in der einen Zip-File.
