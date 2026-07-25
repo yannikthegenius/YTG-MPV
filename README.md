@@ -6,6 +6,8 @@ My MPV Configs
 > [!NOTE]
 Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https://github.com/Samillion/ModernZ).
 
+---
+
 ## ▶️ Notable Changes
 
 - Viele sinnvolle, customized Keyboard Shortcuts.
