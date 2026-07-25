@@ -6,7 +6,7 @@ My MPV Configs
 > [!NOTE]
 Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https://github.com/Samillion/ModernZ).
 
-## Notable Changes
+## ▶️ Notable Changes
 
 - Viele sinnvolle, customized Keyboard Shortcuts.
 - MPV OSCs (GUIs) anzeigen über ALT+SHIFT:
