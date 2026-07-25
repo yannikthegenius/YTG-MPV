@@ -1,5 +1,5 @@
 # YTG-MPV
-My MPV Configs
+My MPV Configs.
 
 > Hatte keinen Bock, über CLI zu pushen, daher sind alle Files in der einen Zip-File.
 
