@@ -9,7 +9,7 @@ Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https:/
 ## Notable Changes
 
 - Viele sinnvolle, customized Keyboard Shortcuts.
-- GUIs anzeigen über ALT+SHIFT:
+- MPV OSCs (GUIs) anzeigen über ALT+SHIFT:
   - z. B. ALT+SHIFT+A für Audio
   - ALT+SHIFT+P für Playlist
   - oder ALT+SHIFT+S für Subtitles.
