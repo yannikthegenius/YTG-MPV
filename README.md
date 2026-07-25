@@ -13,4 +13,4 @@ Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https:/
   - z. B. ALT+SHIFT+A für Audio
   - oder ALT+SHIFT+S für Subtitles.
 - F1 bis F4 für Subtitle Customization.
-- Sehr viele useful Scripts wie History, Sharpening Shader, File Browser, Audio Visualizer oder Pause Indicator.
+- Sehr viele useful Scripts wie History, Sharpening Shader, File Browser, Audio Visualizer oder Pause Indicator. Danke an die Arbeit von all den Script Developern; habe nicht alle selber gemacht.
