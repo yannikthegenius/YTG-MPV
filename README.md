@@ -22,7 +22,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 
 ---
 
-## Installation (Linux with MPV System Package)
+## 🚀 Installation (Linux with MPV System Package)
 1. git clone https://github.com/yannikthegenius/YTG-MPV.git
 2. cd mpv
 3. cp mpv /$USER/.config/mpv
