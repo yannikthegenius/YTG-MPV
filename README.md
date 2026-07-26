@@ -14,6 +14,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
   - oder ALT+SHIFT+S für Subtitles.
 - F1 bis F4 für Subtitle Customization.
 - H für [File History](https://github.com/Eisa01/mpv-scripts#simplehistory).
+- TAB to [Skip Intro](https://github.com/rui-ddc/skip-intro).
 - Öffne die Directory der derzeit geladenen File über SHIFT+B. Default OS File Manager wird dann geöffnet.
 - Auto Resume Video by default: MPV wird sich immer die Position der letzten Wiedergabe merken und man kann MPV immer einfach schließen (auto save).
 - CTRL+Z to Resume: Wenn man ausversehen an eine andere Stelle gesprungen ist, kann man das revidieren und mit CTRL+Z einfach wieder zurück.
