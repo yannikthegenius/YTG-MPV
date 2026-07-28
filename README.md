@@ -3,6 +3,9 @@
 > [!NOTE]
 Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](https://github.com/Samillion/ModernZ).
 
+<img width="1920" height="1080" alt="Screenshot_2026-07-28_15-09-55" src="https://github.com/user-attachments/assets/0c9b20b9-580f-408a-87e4-78a84a6b8ea3" />
+
+
 ---
 
 ## ▶️ Notable Changes
