@@ -15,7 +15,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 - MPV OSCs (GUIs) anzeigen über ALT+SHIFT:
   - z. B. ALT+SHIFT+A für Audio
   - ALT+SHIFT+P für Playlist
-  - oder ALT+SHIFT+S für Subtitles.
+  - oder ALT+SHIFT+S für Subtitles. Man muss nicht zwischen den Options cyclen, sondern man kann die Options per Tastatureingabe filtern.
 
 
 <img width="60%" height="60%" alt="Screenshot_2026-07-29_03-37-19" src="https://github.com/user-attachments/assets/131b043f-15cc-4d61-9d95-44c231c8590b" />
