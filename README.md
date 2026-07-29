@@ -17,7 +17,10 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
   - ALT+SHIFT+P für Playlist
   - oder ALT+SHIFT+S für Subtitles.
 
-<img width="528" height="150" alt="Screenshot_2026-07-28_15-25-22" src="https://github.com/user-attachments/assets/54d0b6a3-09ba-4414-9355-a94a7dbf740b" />
+
+<img width="60%" height="60%" alt="Screenshot_2026-07-29_03-37-19" src="https://github.com/user-attachments/assets/131b043f-15cc-4d61-9d95-44c231c8590b" />
+
+<img width="60%" height="60%" alt="Screenshot_2026-07-29_03-38-02" src="https://github.com/user-attachments/assets/88a1ee0b-3b6a-4f77-bb36-a1f42af7ff73" />
 
 
 - F1 bis F4 für Subtitle Customization.
