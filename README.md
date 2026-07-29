@@ -38,9 +38,9 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 
 ---
 
-## 🚀 Installation
-1. git clone https://github.com/yannikthegenius/YTG-MPV.git
-2. Files von YTG-MPV Directory in MPV Config Directory kopieren.
-3. Default MPV Config Directory Location: "/home/$USER/.config/mpv" <br>
+## 🚀 Installation`
+1. ``git clone https://github.com/yannikthegenius/YTG-MPV.git``
+2. Files von `YTG-MPV Directory` in `MPV Config Directory` kopieren.
+3. Default MPV Config Directory Location: ``/home/$USER/.config/mpv`` <br>
    or <br>
-   Default MPV Flatpak Config Directory Location: "/home/$USER/.var/app/io.mpv.Mpv/config/mpv"
+   Default MPV Flatpak Config Directory Location: `/home/$USER/.var/app/io.mpv.Mpv/config/mpv`
