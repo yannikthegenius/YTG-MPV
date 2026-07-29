@@ -29,7 +29,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 - Öffne die Directory der derzeit geladenen File über SHIFT+B. Default OS File Manager wird dann geöffnet.
 - Auto Resume Video by default: MPV wird sich immer die Position der letzten Wiedergabe merken und man kann MPV immer einfach schließen (auto save).
 
-<img width="805" height="139" alt="Screenshot_2026-07-28_15-35-28" src="https://github.com/user-attachments/assets/92778d13-246a-4cec-9c1d-bf136689178a" />
+<img width="50%" height="50%" alt="Screenshot_2026-07-28_15-35-28" src="https://github.com/user-attachments/assets/92778d13-246a-4cec-9c1d-bf136689178a" />
 
 
 - CTRL+Z to Resume: Wenn man ausversehen an eine andere Stelle gesprungen ist, kann man das revidieren und mit CTRL+Z einfach wieder zurückspringen.
