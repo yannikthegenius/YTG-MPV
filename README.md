@@ -10,12 +10,12 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 ## ▶️ Notable Changes
 
 - Viele sinnvolle User Scripts.
-- Viele sinnvolle, customized Keyboard Shortcuts.
+- Viele Opmized sinnvolleyboard Shortcuts.
 - MPV [OSCs](https://github.com/mpv-player/mpv/blob/master/DOCS/man/osc.rst) anzeigen über `ALT+SHIFT`:
   - z. B. `ALT+SHIFT+A` für Audio
   - `ALT+SHIFT+P` für Playlist
-  - oder `ALT+SHIFT+S` für Subtitles. <br>
-  Man muss nicht zwischen den Options cyclen, sondern man kann die Options per Tastatureingabe filtern.
+  - oder `ALT+SHIFT+S` für SubtitSubtitles
+  - Man muss nicht zwischen den Options cyclen, sondern man kann die Options per Tastatureingabe filtern.
 
 
 <img width="60%" height="60%" alt="Screenshot_2026-07-29_03-37-19" src="https://github.com/user-attachments/assets/131b043f-15cc-4d61-9d95-44c231c8590b" />
