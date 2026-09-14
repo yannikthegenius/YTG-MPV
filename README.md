@@ -10,7 +10,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 ## ▶️ Notable Changes
 
 - Viele sinnvolle User Scripts.
-- Viele Opmized sinnvolleyboard Shortcuts.
+- Viele sinnvolle customized Keybindings.
 - MPV [OSCs](https://github.com/mpv-player/mpv/blob/master/DOCS/man/osc.rst) anzeigen über `ALT+SHIFT`:
   - z. B. `ALT+SHIFT+A` für Audio
   - `ALT+SHIFT+P` für Playlist
