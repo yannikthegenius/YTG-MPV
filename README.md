@@ -28,7 +28,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 - `TAB` to [Skip Intro](https://github.com/rui-ddc/skip-intro).
 - Drücke `B`, um die aktuelle Directory zu printen.
 - Öffne die aktuelle Directory mit `SHIFT+B`. Default File Manager wird dann geöffnet.
-- Auto Resume Video by default: MPV wird sich immer die Position der letzten Wiedergabe merken und man kann MPV immer einfach schließen (auto save).
+- Auto Resume Video by default: mpv wird sich immer die Position der letzten Wiedergabe merken und man kann mpv immer einfach schließen (auto save).
 
 <img width="60%" height="60%" alt="Screenshot_2026-07-28_15-35-28" src="https://github.com/user-attachments/assets/92778d13-246a-4cec-9c1d-bf136689178a" />
 
