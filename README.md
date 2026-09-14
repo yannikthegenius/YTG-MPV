@@ -35,7 +35,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 
 - `CTRL+Z` to Resume: Wenn man ausversehen an eine andere Stelle gesprungen ist, kann man das revidieren und mit `CTRL+Z` einfach wieder zurückspringen.
 - Playlist by default: Wenn man eine File in einem Ordner öffnet, in dem auch andere Files sind, wird automatisch eine Playlist erstellt. So kann man einfach per `SHIFT+LEFT` und `SHIFT+RIGHT` zwischen den verschiedenen Files wechseln, ohne im File Manager gucken zu müssen.
-- Sehr viele andere useful Scripts wie [Sharpening Shader](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e), [File Browser](https://github.com/CogentRedTester/mpv-file-browser/tree/master), [Audio Visualizer](https://github.com/DonCanjas/mpv-visualizer/tree/master) oder [Pause Indicator](https://github.com/Keith94/ModernZ/blob/pause-indicator-animated/extras/pause-indicator-lite/pause_indicator_lite.lua). Danke an die Arbeit von all den Script-Developern; habe nicht alle selber gemacht.
+- Viele andere useful Scripts wie [Sharpening Shader](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e), [File Browser](https://github.com/CogentRedTester/mpv-file-browser/tree/master), [Audio Visualizer](https://github.com/DonCanjas/mpv-visualizer/tree/master) oder [Pause Indicator](https://github.com/Keith94/ModernZ/blob/pause-indicator-animated/extras/pause-indicator-lite/pause_indicator_lite.lua). Danke an die Arbeit von all den Script-Developern; habe nicht alle selber gemacht.
 
 ---
 
