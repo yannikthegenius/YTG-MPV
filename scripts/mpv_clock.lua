@@ -4,10 +4,10 @@
 -- Edit the cfg below to change the key-bindings, date format, and duration.
 
 local cfg = {
-  format     = "⌚ Oh, du möchtest die Uhrzeit prüfen, du Stinker? \n Tick, tick, tick... \n\n\n %H:%M:%S",
+  format     = "⌚ Oh, du möchtest die Uhrzeit prüfen, du Stinker? \n  Tick, tick, tick... \n\n\n %H:%M:%S",
   duration   = 8,
-  key        = 'shift+u',
-  togglekey  = 'ctrl+shift+u',
+  key        = 'c',
+  togglekey  = 'ctrl+alt+shift+c',
 }
 
 -- global clock show state variable
