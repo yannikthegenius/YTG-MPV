@@ -2,7 +2,7 @@ local mp = require 'mp'
 local utils = require 'mp.utils'
 
 local messages = {
-    "🛈 Gute Wahl, Stinker",
+    "🛈 Gute Wahl, Stinker.",
 }
 
 local video_exts = {
