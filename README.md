@@ -34,6 +34,7 @@ Meine Configs für [mpv](https://github.com/mpv-player/mpv) based on [ModernZ](h
 - `CTRL+SHIFT+O` to load a file.
 - `ALT+O` to open a direcotry.
 - `CTRL+V` to instantly load file from clipboard.
+- Pause on `LEFT CLICK` or `RIGHT CLICK`.
 - Auto Resume Video by default: mpv wird sich immer die Position der letzten Wiedergabe merken und man kann mpv immer einfach schließen (auto save).
 
 <img width="60%" height="60%" alt="Screenshot_2026-07-28_15-35-28" src="https://github.com/user-attachments/assets/92778d13-246a-4cec-9c1d-bf136689178a" />
